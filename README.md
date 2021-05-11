@@ -10,7 +10,11 @@
 
 - 토비의 스프링 : 글이 어려우나, 정독하면 실제로 개발에 도움이 될 것임
 
-- 스프링 입문을 위한 자바 객체 지향의 원리와 이해: 설계에 도움이 되며, 자바 80 스프링 20 정도로 구성됨. 초보자들이 읽기 좋음.
+- 스프링 입문을 위한 자바 객체 지향의 원리와 이해 
+1) 설계에 도움이 되며, 자바 80 스프링 20 정도로 구성됨.
+2) 초보자들이 읽기 좋음.
+3) 자바 이해 & 스프링에 사용되는 패턴 알 수 있음.
+- BOOT SPRING BOOT: 스프링에 어떤 기능이 있는지 겉핥기
 - 인프런
 
     Spring Boot를 이용한 RESTful Web Services 개발: [https://www.inflearn.com/course/spring-boot-restful-web-services#](https://www.inflearn.com/course/spring-boot-restful-web-services#)
