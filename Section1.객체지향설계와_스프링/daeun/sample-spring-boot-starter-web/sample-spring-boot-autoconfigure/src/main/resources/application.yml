@@ -1,0 +1,5 @@
+
+spring.mvc.request-parameter-logging-filter:
+  enabled: trace
+  level: DEBUG
+logging.level.com.study.autoconfigure.logging.filter.RequestParameterLoggingFilter: ${spring.mvc.request-parameter-logging-filter.level}

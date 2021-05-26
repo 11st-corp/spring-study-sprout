@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "spring.mvc.request-parameter-logging-filter.enabled",
+      "type": "org.slf4j.event.Level",
+      "description": "true 또는 false."
+    },
+    {
+      "name": "spring.mvc.request-parameter-logging-filter.level",
+      "type": "java.lang.String",
+      "description": "로깅 레벨 설정."
+    }
+  ]
+}
