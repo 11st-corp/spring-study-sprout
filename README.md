@@ -49,7 +49,7 @@
 | No. | 일시 | 주제 | 내용 | 
 |---|-----|-----|-----|
 | 1 | 05. 18(화) 16:00  | 사전 모임 | 스터디 범위, 학습 계획 수립 |
-| 2 | 05. 26(수) 17:00  | Section 1. 객체 지향 설계와 스프링 | - |  
+| 2 | 05. 26(수) 17:00  | Section 1. 객체 지향 설계와 스프링 | 발표자: [Sunghwan-DS](https://github.com/Sunghwan-DS), [covenant](https://github.com/KoEonYack) |  
 
 <br />
 
