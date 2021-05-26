@@ -9,14 +9,14 @@ Spring Boot에서는 `spring-boot-starter`라는 사전에 미리 정의해둔 �
 ## 의존성 트리
 
 1. cmd 창에 아래와 같이 명령어를 치면, dependency 트리를 확인할 수 있다.
+![Untitled (36)](https://user-images.githubusercontent.com/25525648/119635520-bcd90d80-be4e-11eb-8a1b-8de452be9b72.png)
 
-![spring-boot-starter%2014fb3716b8be410592e0e81f7f11d085/Untitled.png](spring-boot-starter%2014fb3716b8be410592e0e81f7f11d085/Untitled.png)
 
 위와 같은 방법은 cmd창으로 나열되어있어 보기가 깔끔하지 않다는 단점을 가진다.
 
 2. IntelliJ에서 gradle 모달창을 확인해보자.
+![Untitled (37)](https://user-images.githubusercontent.com/25525648/119635563-c8c4cf80-be4e-11eb-86a6-614518621075.png)
 
-![spring-boot-starter%2014fb3716b8be410592e0e81f7f11d085/Untitled%201.png](spring-boot-starter%2014fb3716b8be410592e0e81f7f11d085/Untitled%201.png)
 
 spring-boot-starter-web은 여러 의존성으로 깊게 얽혀있는 라이브러리이다.
 
@@ -43,7 +43,8 @@ dependencies {
 
 ### [spring-boot-project:spring-boot-autoconfigure](https://github.com/spring-projects/spring-boot/tree/main/spring-boot-project/spring-boot-autoconfigure)
 
-![spring-boot-starter%2014fb3716b8be410592e0e81f7f11d085/ezgif.com-gif-maker_(6).gif](spring-boot-starter%2014fb3716b8be410592e0e81f7f11d085/ezgif.com-gif-maker_(6).gif)
+![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/25525648/119635736-eeea6f80-be4e-11eb-9db4-b3a252190f4c.gif)
+
 
 대부분의 라이브러리가 optional로 설정되어있는 것을 확인할 수 있다.
 
@@ -77,53 +78,55 @@ autoconfigure 모듈은 자동 설정에 필요한 요소와 library를 갖고 �
 
 Spring Boot 의 AutoConfiguration 을 살펴보면, 모든 선택적 의존성에 Dependency Optional True 가 붙어 있는 것을 확인할 수 있음. Gradle 에서는 compileOnly 를 사용할 수 있음. 대부분의 선택적 의존성들은 Starter Pack 에 의하여 주입됨.
 
-![spring-boot-starter%2014fb3716b8be410592e0e81f7f11d085/Untitled%202.png](spring-boot-starter%2014fb3716b8be410592e0e81f7f11d085/Untitled%202.png)
+![Untitled (38)](https://user-images.githubusercontent.com/25525648/119635819-0295d600-be4f-11eb-9a17-dd003f84534a.png)
+
 
 의존성 있는 파일을 추가한다. 선택적 의존성이 대부분이다.
 
-![spring-boot-starter%2014fb3716b8be410592e0e81f7f11d085/Untitled%203.png](spring-boot-starter%2014fb3716b8be410592e0e81f7f11d085/Untitled%203.png)
+![Untitled (39)](https://user-images.githubusercontent.com/25525648/119635879-117c8880-be4f-11eb-97c7-e3e15c6348b0.png)
+
 
 로깅을 하기 위해 filter를 구현했다.
 
-![spring-boot-starter%2014fb3716b8be410592e0e81f7f11d085/Untitled%204.png](spring-boot-starter%2014fb3716b8be410592e0e81f7f11d085/Untitled%204.png)
+![Untitled (40)](https://user-images.githubusercontent.com/25525648/119635898-15100f80-be4f-11eb-9b2b-9bcc883d2379.png)
+
 
 아래의 정보를 META-INF/additional-spring-configuration-metadata.json에 저장함으로써 application.yml에서 설정한 key에 대한 정보를 정의할 수 있다.
 
-![spring-boot-starter%2014fb3716b8be410592e0e81f7f11d085/Untitled%205.png](spring-boot-starter%2014fb3716b8be410592e0e81f7f11d085/Untitled%205.png)
+![Untitled (41)](https://user-images.githubusercontent.com/25525648/119635975-278a4900-be4f-11eb-9d19-b87e14ddc19d.png)
+
 
 additional-spring-configuration-metadata.json
+![Untitled (42)](https://user-images.githubusercontent.com/25525648/119635992-2c4efd00-be4f-11eb-8e78-750d4fd7f360.png)
 
-![spring-boot-starter%2014fb3716b8be410592e0e81f7f11d085/Untitled%206.png](spring-boot-starter%2014fb3716b8be410592e0e81f7f11d085/Untitled%206.png)
 
 **1. 자동으로 설정할 내용을 담을 @Configuration 클래스 작성**
 
 모듈이 다 구현되었으니, 자동 설정 기능을 위한 코드를 담고 있는 모듈(jar 파일)은 @Configuration 애노테이션을 사용해서 설정 클래스를 작성한다.
+![Untitled (43)](https://user-images.githubusercontent.com/25525648/119636016-3244de00-be4f-11eb-8368-c54dc015f935.png)
 
-![spring-boot-starter%2014fb3716b8be410592e0e81f7f11d085/Untitled%207.png](spring-boot-starter%2014fb3716b8be410592e0e81f7f11d085/Untitled%207.png)
 
 **2. META-INF/spring.factories 파일에 설정 클래스 지정하기**
 
 스프링 부트는 클래스패스에 위치한 모든 META-INF/spring.factories 파일의 org.springframework.boot.autoconfigure.EnableAutoConfiguration 프로퍼티 값을 읽어와 설정 클래스로 사용한다.
 
 클래스패스 위치에(메이븐 같으면 src/main/resources 폴더에) META-INF/spring.factories 파일을 만들고, org.springframework.boot.autoconfigure.EnableAutoConfiguration 프로퍼티의 값으로 자동 설정으로 사용할 클래스를 값으로 준다.
+![Untitled (44)](https://user-images.githubusercontent.com/25525648/119636029-35d86500-be4f-11eb-8f4c-e70de8490202.png)
 
-![spring-boot-starter%2014fb3716b8be410592e0e81f7f11d085/Untitled%208.png](spring-boot-starter%2014fb3716b8be410592e0e81f7f11d085/Untitled%208.png)
 
 spring.factories
 
 ### sample-spring-boot-starter-request-parameter-logging-filter
+![Untitled (45)](https://user-images.githubusercontent.com/25525648/119636060-3f61cd00-be4f-11eb-838c-d2dbd2072d1d.png)
 
-![spring-boot-starter%2014fb3716b8be410592e0e81f7f11d085/Untitled%209.png](spring-boot-starter%2014fb3716b8be410592e0e81f7f11d085/Untitled%209.png)
 
 선택적으로 걸었던 것을 필수적으로 의존성을 걸어준다.
 
 ### sample-spring-boot-starter-web
+![Untitled (46)](https://user-images.githubusercontent.com/25525648/119636122-4c7ebc00-be4f-11eb-890c-cb73693eab8e.png)
+![Untitled (47)](https://user-images.githubusercontent.com/25525648/119636132-4e487f80-be4f-11eb-9edf-d8491b48dc65.png)
+![Untitled (48)](https://user-images.githubusercontent.com/25525648/119636137-4f79ac80-be4f-11eb-940e-9cd57b5c3637.png)
 
-![spring-boot-starter%2014fb3716b8be410592e0e81f7f11d085/Untitled%2010.png](spring-boot-starter%2014fb3716b8be410592e0e81f7f11d085/Untitled%2010.png)
-
-![spring-boot-starter%2014fb3716b8be410592e0e81f7f11d085/Untitled%2011.png](spring-boot-starter%2014fb3716b8be410592e0e81f7f11d085/Untitled%2011.png)
-
-![spring-boot-starter%2014fb3716b8be410592e0e81f7f11d085/Untitled%2012.png](spring-boot-starter%2014fb3716b8be410592e0e81f7f11d085/Untitled%2012.png)
 
 의존성이 걸어진 것을 확인할 수 있다.
 
