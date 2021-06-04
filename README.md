@@ -1,12 +1,55 @@
-<div align="center">
-    <h1>[1기] ❤️🌱 스프링 정복 새싹반 </h1>
-</div>
+<h1> ❤️🌱 스프링 정복 새싹반 </h1>
+<img src="./_raw/cover.jpg" />
+
+> 11번가 신입 개발자들의 스프링 정복 이야기
 
 <br />
 
-## 학습 동호회 이름
 
-> 🌱 스프링 정복 새싹반 1기
+
+<br />
+
+## 🐾 발자취
+
+<table>
+    <thead>
+        <tr>
+            <th> No. </th>
+            <th> 일시 </th>
+            <th> 주제 </th>
+            <th> 발표자료 </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> 1 </td>
+            <td> 05. 18(화) 16:00  </td>
+            <td> 사전 모임 </td>
+            <td> - </td>
+        </tr>
+        <tr>
+            <td> 2 </td>
+            <td> 05. 26(수) 17:00 ~ 18:00 </td>
+            <td> 1. 객체 지향 설계와 스프링	 </td>
+            <td> 
+                <a href="https://github.com/11st-corp/spring-study/tree/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section1.%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%84%A4%EA%B3%84%EC%99%80_%EC%8A%A4%ED%94%84%EB%A7%81/covenant"> covenat </a><br />
+                <a href="https://github.com/11st-corp/spring-study/tree/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section1.%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%84%A4%EA%B3%84%EC%99%80_%EC%8A%A4%ED%94%84%EB%A7%81/daeun"> daeun </a><br />
+                <a href="https://github.com/11st-corp/spring-study/tree/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section1.%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%84%A4%EA%B3%84%EC%99%80_%EC%8A%A4%ED%94%84%EB%A7%81/munkyung"> munkyung </a><br />
+                <a href="https://github.com/11st-corp/spring-study/tree/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section1.%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%84%A4%EA%B3%84%EC%99%80_%EC%8A%A4%ED%94%84%EB%A7%81/%EC%9C%A4%EB%8F%99%ED%9D%AC"> 윤동희 </a><br />
+                <a href="https://github.com/11st-corp/spring-study/tree/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section1.%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%84%A4%EA%B3%84%EC%99%80_%EC%8A%A4%ED%94%84%EB%A7%81/%EC%B5%9C%EC%83%81%ED%98%84"> 최상현 </a>
+            </td>
+        </tr>
+        <tr>
+            <td> 3 </td>
+            <td> 06. 02(수) 17:00  ~ 18:00 </td>
+            <td> 2. 예제 만들기 3. 객체 지향 원리 적용 </td>
+            <td>
+                <a href="https://github.com/11st-corp/spring-study/tree/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section2_3_%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC_%EC%9B%90%EB%A6%AC_%EC%9D%B4%ED%95%B4/covenant"> coveant </a><br/>
+                <a href="https://github.com/11st-corp/spring-study/tree/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section2_3_%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC_%EC%9B%90%EB%A6%AC_%EC%9D%B4%ED%95%B4/daeun"> daeun </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 <br />
 
@@ -34,34 +77,16 @@
 <br />
 
 ## 📅  상세일정
-
-스터디는 12**주** 동안 진행됩니다. 모임은 **주 1회** 매주 **수요일 오후 5시** 시작합니다. 
+> 스터디는 12**주** 동안 진행됩니다. 모임은 **주 1회** 매주 **수요일 오후 5시** 시작합니다. 
 
 - 스터디 시작일: 5월 26일(수) 오후 5시
 - 스터디 종료일: 8월 11일(수) 오후 5시
 
 <br />
-
-## 🐾 발자취
-
-| No. | 일시 | 주제 | 내용 | 
-|---|-----|-----|-----|
-| 1 | 05. 18(화) 16:00  | 사전 모임 | 스터디 범위, 학습 계획 수립 |
-| 2 | 05. 26(수) 17:00 ~ 18:00 | Section 1. 객체 지향 설계와 스프링 | 발표자: [Sunghwan-DS](https://github.com/Sunghwan-DS), [covenant](https://github.com/KoEonYack) |  
-| 3 | 06. 02(수) 17:00  ~ 18:00 |  스프링 핵심 원리 이해1 - 예제 만들기, 섹션 3. 스프링 핵심 원리 이해2 - 객체 지향 원리 적용 | 이파리반 발표자: [Sunghwan-DS](https://github.com/Sunghwan-DS), [jeongdaeun98](https://github.com/jeongdaeun98), [covenant](https://github.com/KoEonYack) |  
-
-<br />
-
-## 🌟학습 결과물
-
-- 스프링 기본 개념에 대해서 설명한 문서
-- 학습 도서에 대한 요약록
-- 스터디 주제별 구현 코드
-
 <br />
 <hr />
 <p align="center">
-    <img width="7%" alt="_2021-05-12__1 58 58" src="https://user-images.githubusercontent.com/25525648/117926239-69859c00-b333-11eb-88d1-3c59bd5cf166.png">
+    <img width="7%" alt="" src="./_raw/11st_logo.png">
 </p>
 <hr />
 
