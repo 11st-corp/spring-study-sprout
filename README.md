@@ -51,8 +51,8 @@
             <td> 06. 09(수) </td>
             <td> 4. 스프링 컨테이너와 스프링 빈 </td>
             <td>
-                <a href="">coveant: 아주 작은 Bean 이야기 (Bean CRUD) </a><br />
-                <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section4.%EC%8A%A4%ED%94%84%EB%A7%81_%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80_%EC%8A%A4%ED%94%84%EB%A7%81_%EB%B9%88/covenant/%EC%95%84%EC%A3%BC%EC%9E%91%EC%9D%80_%EB%B9%88_%EC%9D%B4%EC%95%BC%EA%B8%B0_2.pdf"> daeun: AnnotationConfigApplicationContext 살펴보기 </a><br />
+                <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section4.%EC%8A%A4%ED%94%84%EB%A7%81_%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80_%EC%8A%A4%ED%94%84%EB%A7%81_%EB%B9%88/covenant/%EC%95%84%EC%A3%BC%EC%9E%91%EC%9D%80_%EB%B9%88_%EC%9D%B4%EC%95%BC%EA%B8%B0_2.pdf">coveant: 아주 작은 Bean 이야기 (Bean CRUD) </a><br />
+                <a href="https://github.com/11st-corp/spring-study-sprout/tree/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section4.%EC%8A%A4%ED%94%84%EB%A7%81_%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80_%EC%8A%A4%ED%94%84%EB%A7%81_%EB%B9%88/daeun"> daeun: 강의요약, AnnotationConfigApplicationContext 살펴보기 </a><br />
                 <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section4.%EC%8A%A4%ED%94%84%EB%A7%81_%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80_%EC%8A%A4%ED%94%84%EB%A7%81_%EB%B9%88/%EC%B5%9C%EC%83%81%ED%98%84/%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%20%EA%B8%B0%EB%B0%98%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%84%A4%EC%A0%95.md"> 최상현: 어노테이션 기반 설정 </a><br />
             </td>
         </tr>
