@@ -59,6 +59,17 @@
                 <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section4.%EC%8A%A4%ED%94%84%EB%A7%81_%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80_%EC%8A%A4%ED%94%84%EB%A7%81_%EB%B9%88/KimDoubleB/%EC%8A%A4%ED%94%84%EB%A7%81%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88_%EC%8A%A4%ED%94%84%EB%A7%81%EB%B9%88.pdf"> KimDoubleB: 나는 중복된 Bean을 사용하고 말테야 😡</a>
             </td>
         </tr>
+        <tr>
+            <td> 5 </td>
+            <td> 06. 16(수) </td>
+            <td> 5. 싱글톤 컨테이너 </td>
+            <td>
+                <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section5.%EC%8B%B1%EA%B8%80%ED%86%A4_%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88/covenant/%EC%8A%A4%ED%94%84%EB%A7%81_%EC%83%88%EC%8B%B9%EB%B0%98_week4_%EB%B9%88%EC%9D%80_%EC%A0%84%EC%84%A4%EC%9D%B4%EB%8B%A4_%EC%8B%B1%EA%B8%80%ED%86%A4_CGlib.pdf">coveant: 빈은 전설이다 (싱글톤, CGlib) </a><br />
+                <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section5.%EC%8B%B1%EA%B8%80%ED%86%A4_%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88/%E1%84%89%E1%85%B5%E1%86%BC%E1%84%80%E1%85%B3%E1%86%AF%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%91%E1%85%A2%E1%84%90%E1%85%A5%E1%86%AB(%E1%84%8E%E1%85%AC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A7%E1%86%AB)/%E1%84%89%E1%85%B5%E1%86%BC%E1%84%80%E1%85%B3%E1%86%AF%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8%207a76c25ff96d451d915839ef4ce7026f.md"> 싱글톤 패턴 </a><br />
+                <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section5.%EC%8B%B1%EA%B8%80%ED%86%A4_%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88/daeun.md"> daeun: 싱글톤 컨테이너 </a><br />
+                <a href=""> munkyung: 스프링에서의 싱글톤 </a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
