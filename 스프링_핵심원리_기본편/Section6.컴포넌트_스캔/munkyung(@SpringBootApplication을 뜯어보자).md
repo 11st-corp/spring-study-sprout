@@ -1,4 +1,4 @@
-# @SpringBootApplication  를 뜯어보자
+# @SpringBootApplication 을 뜯어보자
 
 ## @SpringBootApplication
 
