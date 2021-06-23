@@ -74,6 +74,15 @@
                 <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section5.%EC%8B%B1%EA%B8%80%ED%86%A4_%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88/munkyung(%EC%8A%A4%ED%94%84%EB%A7%81%EC%97%90%EC%84%9C%EC%9D%98_%EC%8B%B1%EA%B8%80%ED%86%A4).md"> munkyung: 스프링에서의 싱글톤 </a>
             </td>
         </tr>
+        <tr>
+            <td> 6 </td>
+            <td> 06. 23(수) </td>
+            <td> 5. 싱글톤 컨테이너 </td>
+            <td>
+                <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section6.%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8_%EC%8A%A4%EC%BA%94/covenant/%EC%8A%A4%ED%94%84%EB%A7%81_%EC%83%88%EC%8B%B9%EB%B0%98_week5_%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8_%EC%8A%A4%EC%BA%94.pdf"> covenant: 컴포넌트 스캔과 빈 주입 </a><br />
+                <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section6.%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8_%EC%8A%A4%EC%BA%94/munkyung(%40SpringBootApplication%EC%9D%84%20%EB%9C%AF%EC%96%B4%EB%B3%B4%EC%9E%90).md"> munkyung: @SpringBootApplication을 뜯어보자 </a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
