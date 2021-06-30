@@ -83,6 +83,14 @@
                 <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section6.%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8_%EC%8A%A4%EC%BA%94/munkyung(%40SpringBootApplication%EC%9D%84%20%EB%9C%AF%EC%96%B4%EB%B3%B4%EC%9E%90).md"> munkyung: @SpringBootApplication을 뜯어보자 </a>
             </td>
         </tr>
+        <tr>
+            <td> 7 </td>
+            <td> 06. 30(수) </td>
+            <td> 6. 섹션7 의존관계 자동 주입 </td>
+            <td>
+                <a href="https://www.slideshare.net/ssuser8f4c99/week6-autowired-beanlifecycle"> covenant: @autowired & beanlifecycle </a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
