@@ -57,7 +57,7 @@
             <td>
                 <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section4.%EC%8A%A4%ED%94%84%EB%A7%81_%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80_%EC%8A%A4%ED%94%84%EB%A7%81_%EB%B9%88/KimDoubleB/%EC%8A%A4%ED%94%84%EB%A7%81%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88_%EC%8A%A4%ED%94%84%EB%A7%81%EB%B9%88.pdf"> KimDoubleB: 나는 중복된 Bean을 사용하고 말테야 😡</a><br />
                 <a href="https://www.slideshare.net/ssuser8f4c99/week3-2-249383142">coveant: 아주 작은 Bean 이야기 (Bean CRUD) </a><br />
-                <a href="https://github.com/11st-corp/spring-study-sprout/tree/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section4.%EC%8A%A4%ED%94%84%EB%A7%81_%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80_%EC%8A%A4%ED%94%84%EB%A7%81_%EB%B9%88/daeun"> daeun: 강의요약, AnnotationConfigApplicationContext 살펴보기 </a><br />
+                <a href="https://github.com/11st-corp/spring-study-sprout/tree/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section4.%EC%8A%A4%ED%94%84%EB%A7%81_%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80_%EC%8A%A4%ED%94%84%EB%A7%81_%EB%B9%88/daeun"> daeun: 요약, AnnotationConfigApplicationContext </a><br />
                 <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section4.%EC%8A%A4%ED%94%84%EB%A7%81_%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80_%EC%8A%A4%ED%94%84%EB%A7%81_%EB%B9%88/%E1%84%8B%E1%85%B2%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%B4/3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pptx"> 윤동희: 3주차 발표자료 </a>
                 <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section4.%EC%8A%A4%ED%94%84%EB%A7%81_%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80_%EC%8A%A4%ED%94%84%EB%A7%81_%EB%B9%88/%EC%B5%9C%EC%83%81%ED%98%84/%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%20%EA%B8%B0%EB%B0%98%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%84%A4%EC%A0%95.md"> 최상현: 어노테이션 기반 설정 </a>
             </td>
@@ -80,15 +80,18 @@
             <td> 5. 싱글톤 컨테이너 </td>
             <td>
                 <a href="https://www.slideshare.net/ssuser8f4c99/week5-249517232"> covenant: 컴포넌트 스캔과 빈 주입 </a><br />
-                <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section6.%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8_%EC%8A%A4%EC%BA%94/munkyung(%40SpringBootApplication%EC%9D%84%20%EB%9C%AF%EC%96%B4%EB%B3%B4%EC%9E%90).md"> munkyung: @SpringBootApplication을 뜯어보자 </a>
+                <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section6.%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8_%EC%8A%A4%EC%BA%94/munkyung(%40SpringBootApplication%EC%9D%84%20%EB%9C%AF%EC%96%B4%EB%B3%B4%EC%9E%90).md"> munkyung: @SpringBootApplication을 뜯어보자 </a> <br />
+                <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section6.%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8_%EC%8A%A4%EC%BA%94/%E1%84%8B%E1%85%B2%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%B4_auto%20config%20%2B%20%E1%84%89%E1%85%B5%E1%86%BC%E1%84%80%E1%85%B3%E1%86%AF%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%B4%20%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%A6%E1%84%8C%E1%85%A5%E1%86%B7!.pptx"> 윤동희: autoconfig, 싱글톤 문제점 </a>
             </td>
         </tr>
         <tr>
             <td> 7 </td>
             <td> 06. 30(수) </td>
-            <td> 6. 섹션7 의존관계 자동 주입 </td>
+            <td> 7 의존관계 자동 주입 </td>
             <td>
-                <a href="https://www.slideshare.net/ssuser8f4c99/week6-autowired-beanlifecycle"> covenant: @autowired & beanlifecycle </a>
+                <a href="https://www.slideshare.net/ssuser8f4c99/week6-autowired-beanlifecycle"> covenant: @autowired & bean life cycle </a> <br />
+                <a href="https://www.notion.so/lombok-is-awesome-so-be-careful-09d35f66c9c54ee6820542b79a09d4b1">최상현: lombok 사용시 주의점 </a> <br />
+                <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/section7/d36choi/%E1%84%8B%E1%85%B2%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%B4_lombok%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8C%E1%85%A1.pptx"> 윤동희: lombok의 생성자 </a>
             </td>
         </tr>
     </tbody>
