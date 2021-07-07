@@ -77,7 +77,7 @@
         <tr>
             <td> 6 </td>
             <td> 06. 23(수) </td>
-            <td> 5. 싱글톤 컨테이너 </td>
+            <td> 6. 컴포넌트 스캔 </td>
             <td>
                 <a href="https://www.slideshare.net/ssuser8f4c99/week5-249517232"> covenant: 컴포넌트 스캔과 빈 주입 </a><br />
                 <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section6.%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8_%EC%8A%A4%EC%BA%94/munkyung(%40SpringBootApplication%EC%9D%84%20%EB%9C%AF%EC%96%B4%EB%B3%B4%EC%9E%90).md"> munkyung: @SpringBootApplication을 뜯어보자 </a> <br />
@@ -92,6 +92,15 @@
                 <a href="https://www.slideshare.net/ssuser8f4c99/week6-autowired-beanlifecycle"> covenant: @autowired & bean life cycle </a> <br />
                 <a href="https://www.notion.so/lombok-is-awesome-so-be-careful-09d35f66c9c54ee6820542b79a09d4b1">최상현: lombok 사용시 주의점 </a> <br />
                 <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/section7/d36choi/%E1%84%8B%E1%85%B2%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%B4_lombok%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8C%E1%85%A1.pptx"> 윤동희: lombok의 생성자 </a>
+            </td>
+        </tr>
+        <tr>
+            <td> 8 </td>
+            <td> 07. 07(수) </td>
+            <td> 8. 빈 생명주기, 콜백, 스코프 </td>
+            <td>
+                <a href="https://www.slideshare.net/ssuser8f4c99/week7-bean-lifecycle">covenant: bean life cycle</a><br />
+                <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/section8/%EB%B9%88%EC%8A%A4%EC%BD%94%ED%94%84%26Provider.md">최상현: 빈스코프 </a>
             </td>
         </tr>
     </tbody>
