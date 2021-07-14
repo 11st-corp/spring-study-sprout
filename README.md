@@ -104,6 +104,12 @@
                 <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/section8/beanLifeCycleCallback.md">정다은: bean lifeCycle callback </a>
             </td>
         </tr>
+        <tr>
+            <td> 9 </td>
+            <td> 07. 14(수) </td>
+            <td> 1. 웹 애플리케이션 이해 </td>
+            <td> <a href="https://www.slideshare.net/ssuser8f4c99/ch02-249605018"> covenant: 떠먹는 오브젝트 - 객체지향 </a> </td>
+        </tr>
     </tbody>
 </table>
 
