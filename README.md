@@ -99,6 +99,7 @@
             <td> 07. 07(수) </td>
             <td> 8. 빈 생명주기, 콜백, 스코프 </td>
             <td>
+                <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/section8/KimDoubleB/bean%20scope.pdf">KimDoubleB: bean scope </a><br />
                 <a href="https://www.slideshare.net/ssuser8f4c99/week7-bean-lifecycle">covenant: bean life cycle</a><br />
                 <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/section8/%EB%B9%88%EC%8A%A4%EC%BD%94%ED%94%84%26Provider.md">최상현: 빈스코프 </a><br />
                 <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/section8/beanLifeCycleCallback.md">정다은: bean lifeCycle callback </a>
