@@ -111,6 +111,12 @@
             <td> 1. 웹 애플리케이션 이해 </td>
             <td> <a href="https://www.slideshare.net/ssuser8f4c99/ch02-249605018"> covenant: 떠먹는 오브젝트 - 객체지향 </a> </td>
         </tr>
+        <tr>
+            <td> 10 </td>
+            <td> 07. 21(수) </td>
+            <td> 2. 서블릿 </td>
+            <td> <a href="https://www.slideshare.net/ssuser8f4c99/part-1-249823743"> covenant: [로켓 자바] 성능 튜닝 마인드 확립 </a> </td>
+        </tr>
     </tbody>
 </table>
 
