@@ -115,7 +115,10 @@
             <td> 10 </td>
             <td> 07. 21(수) </td>
             <td> 2. 서블릿 </td>
-            <td> <a href="https://www.slideshare.net/ssuser8f4c99/part-1-249823743"> covenant: [로켓 자바] 성능 튜닝 마인드 확립 </a> </td>
+            <td> 
+                <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_MVC_1%ED%8E%B8/Section2.%EC%84%9C%EB%B8%94%EB%A6%BF/Servlet_KimDoubleB.pdf"> KimDoubleB: Servlet </a><br/>
+                <a href="https://www.slideshare.net/ssuser8f4c99/part-1-249823743"> covenant: [로켓 자바] 성능 튜닝 마인드 확립 </a><br/>
+                <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_MVC_1%ED%8E%B8/Section2.%EC%84%9C%EB%B8%94%EB%A6%BF/HTTP%EC%99%80%20%EC%84%9C%EB%B8%94%EB%A6%BF-%EC%B5%9C%EC%83%81%ED%98%84.pdf"> 최상현: HTTP와 서블릿 </a>
         </tr>
     </tbody>
 </table>
