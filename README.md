@@ -86,7 +86,7 @@
         </tr>
         <tr>
             <td> Week 07 </td>
-            <td> 06. 30(수) </td>
+           <!-- <td> 06. 30(수) </td> -->
             <td> 7 의존관계 자동 주입 </td>
             <td>
                 <a href="https://www.slideshare.net/ssuser8f4c99/week6-autowired-beanlifecycle"> covenant: @autowired & bean life cycle </a> <br />
