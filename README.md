@@ -12,21 +12,21 @@
     <thead>
         <tr>
             <th> No. </th>
-            <th> 일시 </th>
+            <!-- <th> 일시 </th> -->
             <th> 주제 </th>
             <th> 발표자료 </th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td> 1 </td>
-            <td> 05. 18(화) </td>
+            <td> Week 01 </td>
+            <!-- <td> 05. 18(화) </td> -->
             <td> 사전 모임 </td>
             <td> - </td>
         </tr>
         <tr>
-            <td> 2 </td>
-            <td> 05. 26(수) </td>
+            <td> Week 02 </td>
+            <!-- <td> 05. 26(수) </td> -->
             <td> 1. 객체 지향 설계와 스프링	 </td>
             <td> 
                 <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section1.%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%84%A4%EA%B3%84%EC%99%80_%EC%8A%A4%ED%94%84%EB%A7%81/KimDoubleB/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%EC%84%A4%EA%B3%84%EC%99%80%20%EC%8A%A4%ED%94%84%EB%A7%81.md"> KimDoubleB: 객체 지향 설계와 스프링</a><br />
@@ -38,8 +38,8 @@
             </td>
         </tr>
         <tr>
-            <td> 3 </td>
-            <td> 06. 02(수) </td>
+            <td> Week 03 </td>
+            <!-- <td> 06. 02(수) </td> -->
             <td> 2. 예제 만들기 3. 객체 지향 원리 적용 </td>
             <td>
                 <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section2_3_%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC_%EC%9B%90%EB%A6%AC_%EC%9D%B4%ED%95%B4/KimDoubleB/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC_%EC%9B%90%EB%A6%AC_%EC%9D%B4%ED%95%B4.pdf"> KimDoubleB: 스프링 핵심 원리 이해 - 관심사의 분리</a><br />
@@ -51,8 +51,8 @@
             </td>
         </tr>
         <tr>
-            <td> 4 </td>
-            <td> 06. 09(수) </td>
+            <td> Week 04 </td>
+            <!-- <td> 06. 09(수) </td> -->
             <td> 4. 스프링 컨테이너와 스프링 빈 </td>
             <td>
                 <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section4.%EC%8A%A4%ED%94%84%EB%A7%81_%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80_%EC%8A%A4%ED%94%84%EB%A7%81_%EB%B9%88/KimDoubleB/%EC%8A%A4%ED%94%84%EB%A7%81%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88_%EC%8A%A4%ED%94%84%EB%A7%81%EB%B9%88.pdf"> KimDoubleB: 나는 중복된 Bean을 사용하고 말테야 😡</a><br />
@@ -63,8 +63,8 @@
             </td>
         </tr>
         <tr>
-            <td> 5 </td>
-            <td> 06. 16(수) </td>
+            <td> Week 05 </td>
+            <!-- <td> 06. 16(수) </td> -->
             <td> 5. 싱글톤 컨테이너 </td>
             <td>
                 <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/Section5.%EC%8B%B1%EA%B8%80%ED%86%A4_%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88/KimDoubleB/%EB%8B%A4%EC%96%91%ED%95%9C%20Singleton%20%EA%B5%AC%ED%98%84%EB%B2%95.pdf">KimDoubleB: 다양한 Singleton 구현법</a><br/>
@@ -75,8 +75,8 @@
             </td>
         </tr>
         <tr>
-            <td> 6 </td>
-            <td> 06. 23(수) </td>
+            <td> Week 06 </td>
+            <!-- <td> 06. 23(수) </td> -->
             <td> 6. 컴포넌트 스캔 </td>
             <td>
                 <a href="https://www.slideshare.net/ssuser8f4c99/week5-249517232"> covenant: 컴포넌트 스캔과 빈 주입 </a><br />
@@ -85,7 +85,7 @@
             </td>
         </tr>
         <tr>
-            <td> 7 </td>
+            <td> Week 07 </td>
             <td> 06. 30(수) </td>
             <td> 7 의존관계 자동 주입 </td>
             <td>
@@ -95,8 +95,8 @@
             </td>
         </tr>
         <tr>
-            <td> 8 </td>
-            <td> 07. 07(수) </td>
+            <td> Week 08 </td>
+            <!-- <td> 07. 07(수) </td> -->
             <td> 8. 빈 생명주기, 콜백, 스코프 </td>
             <td>
                 <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8/section8/KimDoubleB/bean%20scope.pdf">KimDoubleB: bean scope </a><br />
@@ -106,19 +106,16 @@
             </td>
         </tr>
         <tr>
-            <td> 9 </td>
-            <td> 07. 14(수) </td>
+            <td> Week 09 </td>
+            <!-- <td> 07. 14(수) </td> -->
             <td> 1. 웹 애플리케이션 이해 </td>
             <td> <a href="https://www.slideshare.net/ssuser8f4c99/ch02-249605018"> covenant: 떠먹는 오브젝트 - 객체지향 </a> </td>
         </tr>
         <tr>
-            <td> 10 </td>
-            <td> 07. 21(수) </td>
+            <td> Week 10 </td>
+            <!-- <td> 07. 21(수) </td> -->
             <td> 2. 서블릿 </td>
-            <td> 
-                <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_MVC_1%ED%8E%B8/Section2.%EC%84%9C%EB%B8%94%EB%A6%BF/Servlet_KimDoubleB.pdf"> KimDoubleB: Servlet </a><br/>
-                <a href="https://www.slideshare.net/ssuser8f4c99/part-1-249823743"> covenant: [로켓 자바] 성능 튜닝 마인드 확립 </a><br/>
-                <a href="https://github.com/11st-corp/spring-study-sprout/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_MVC_1%ED%8E%B8/Section2.%EC%84%9C%EB%B8%94%EB%A6%BF/HTTP%EC%99%80%20%EC%84%9C%EB%B8%94%EB%A6%BF-%EC%B5%9C%EC%83%81%ED%98%84.pdf"> 최상현: HTTP와 서블릿 </a>
+            <td> <a href="https://www.slideshare.net/ssuser8f4c99/part-1-249823743"> covenant: [로켓 자바] 성능 튜닝 마인드 확립 </a> </td>
         </tr>
     </tbody>
 </table>
